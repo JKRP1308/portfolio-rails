@@ -41,3 +41,7 @@ text-align: center;
 color: #000000;
 margin: auto;
 }
+
+.unslider { position: relative; overflow: auto; }
+    .unslider li { list-style: none; }
+        .unslider ul li { float: left; }
