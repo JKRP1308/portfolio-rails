@@ -42,6 +42,33 @@ color: #000000;
 margin: auto;
 }
 
+.big{
+height: 300px;
+width: 100%;
+background: #FFFFFF;
+margin-top: 10px;
+}
+.contacts{ 
+width:50%;
+padding: 2px;
+border: 2px solid rgba(33, 68, 72, 0.59);
+border-radius: 50px;
+background-color: #386987;
+color: #000000;
+list-style:none;
+}
+
+.texto{
+color: #000000;
+margin-top: 5px;
+margin-left: 50px;
+}
+
+.imagenIico{
+width: 60px;
+height: 60px;
+}
+
 .unslider { position: relative; overflow: auto; }
     .unslider li { list-style: none; }
         .unslider ul li { float: left; }
